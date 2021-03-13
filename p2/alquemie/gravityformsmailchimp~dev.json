@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "alquemie/gravityformsmailchimp": [
+            {
+                "name": "alquemie/gravityformsmailchimp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformsmailchimp.git",
+                    "reference": "2d6cd46a346971b400026187d383fdeb21e840fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformsmailchimp/zipball/2d6cd46a346971b400026187d383fdeb21e840fe",
+                    "reference": "2d6cd46a346971b400026187d383fdeb21e840fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2021-03-13T19:38:09+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms MailChimp Addon by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformsmailchimp/tree/4.8",
+                    "issues": "https://github.com/Alquemie/gravityformsmailchimp/issues"
+                }
+            }
+        ]
+    }
+}

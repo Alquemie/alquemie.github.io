@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "alquemie/alquemie-config": [
+            {
+                "name": "alquemie/alquemie-config",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:alquemie/alquemie-config/",
+                    "reference": "2ee57edb3f564aced404cac91d8cee9fbebee9fb"
+                },
+                "time": "2021-01-12T04:07:43+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    }
+                ],
+                "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel"
+            }
+        ]
+    }
+}
