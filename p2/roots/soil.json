@@ -22,7 +22,6 @@
                 },
                 "time": "2014-08-13T23:26:46+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -80,7 +79,6 @@
                 },
                 "time": "2014-11-15T00:11:50+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -138,7 +136,6 @@
                 },
                 "time": "2015-01-24T16:42:29+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -196,7 +193,6 @@
                 },
                 "time": "2015-03-13T15:57:18+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -254,7 +250,6 @@
                 },
                 "time": "2015-04-13T01:04:57+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -312,7 +307,6 @@
                 },
                 "time": "2015-04-22T16:14:17+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -370,7 +364,6 @@
                 },
                 "time": "2015-04-29T04:46:56+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -428,7 +421,6 @@
                 },
                 "time": "2015-09-24T17:30:00+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -486,7 +478,6 @@
                 },
                 "time": "2015-11-19T04:59:49+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -544,7 +535,6 @@
                 },
                 "time": "2015-12-24T19:25:22+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -602,7 +592,6 @@
                 },
                 "time": "2015-12-24T19:42:34+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -660,7 +649,6 @@
                 },
                 "time": "2016-03-07T19:49:21+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -721,7 +709,6 @@
                 },
                 "time": "2016-08-30T18:15:45+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -787,7 +774,6 @@
                 },
                 "time": "2017-06-12T01:25:19+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -853,7 +839,6 @@
                 },
                 "time": "2017-08-14T01:36:41+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -919,7 +904,6 @@
                 },
                 "time": "2019-05-23T00:52:42+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -985,7 +969,6 @@
                 },
                 "time": "2019-05-23T21:45:50+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -1051,7 +1034,6 @@
                 },
                 "time": "2019-12-07T22:25:02+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -1121,7 +1103,6 @@
                 },
                 "time": "2020-08-30T15:21:00+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -1213,7 +1194,6 @@
                 },
                 "time": "2020-08-31T16:21:16+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -1305,7 +1285,6 @@
                 },
                 "time": "2020-09-08T18:21:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -1397,7 +1376,6 @@
                 },
                 "time": "2020-09-08T21:33:19+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -1489,7 +1467,6 @@
                 },
                 "time": "2020-09-11T00:46:10+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"

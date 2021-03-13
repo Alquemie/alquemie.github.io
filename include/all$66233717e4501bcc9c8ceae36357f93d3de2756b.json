@@ -21,7 +21,6 @@
                 },
                 "time": "2020-05-13T06:11:51+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -57,7 +56,6 @@
                 },
                 "time": "2020-06-11T00:23:26+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -93,7 +91,6 @@
                 },
                 "time": "2020-08-11T03:29:53+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -129,7 +126,6 @@
                 },
                 "time": "2020-08-23T15:00:38+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -165,7 +161,6 @@
                 },
                 "time": "2020-09-24T21:03:26+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -201,7 +196,6 @@
                 },
                 "time": "2020-10-30T17:54:07+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -237,7 +231,6 @@
                 },
                 "time": "2020-11-05T04:13:10+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -273,7 +266,6 @@
                 },
                 "time": "2021-01-20T04:11:42+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -309,7 +301,6 @@
                 },
                 "time": "2021-02-15T20:24:31+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -382,7 +373,6 @@
                 },
                 "time": "2020-11-03T01:57:39+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "source",
                 "license": [
                     "GPL-3.0+"
                 ],
@@ -411,7 +401,6 @@
                 },
                 "time": "2021-01-12T04:07:43+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "source",
                 "license": [
                     "GPL-3.0+"
                 ],
@@ -443,7 +432,6 @@
                 },
                 "time": "2020-03-20T04:26:38+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "source",
                 "license": [
                     "GPL-3.0+"
                 ],
@@ -475,7 +463,6 @@
                 },
                 "time": "2020-03-20T07:10:16+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "source",
                 "license": [
                     "GPL-3.0+"
                 ],
@@ -507,7 +494,6 @@
                 },
                 "time": "2020-03-30T02:37:21+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "source",
                 "license": [
                     "GPL-3.0+"
                 ],
@@ -563,7 +549,6 @@
                 },
                 "time": "2020-05-13T06:08:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -599,7 +584,6 @@
                 },
                 "time": "2020-07-16T20:37:37+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -635,7 +619,6 @@
                 },
                 "time": "2020-08-10T18:20:42+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -671,7 +654,6 @@
                 },
                 "time": "2020-08-23T14:59:32+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -707,7 +689,6 @@
                 },
                 "time": "2020-09-24T21:06:21+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -743,7 +724,6 @@
                 },
                 "time": "2020-10-19T15:39:07+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -779,7 +759,6 @@
                 },
                 "time": "2020-12-08T02:21:52+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -815,7 +794,6 @@
                 },
                 "time": "2021-01-11T03:07:04+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -851,7 +829,6 @@
                 },
                 "time": "2021-03-10T01:21:45+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -924,7 +901,6 @@
                 },
                 "time": "2021-03-13T19:38:09+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -997,7 +973,6 @@
                 },
                 "time": "2021-01-28T15:40:12+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -1070,7 +1045,6 @@
                 },
                 "time": "2016-07-12T22:23:31+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1113,7 +1087,6 @@
                 },
                 "time": "2016-07-13T02:08:44+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1201,7 +1174,6 @@
                 },
                 "time": "2014-08-13T23:26:46+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1259,7 +1231,6 @@
                 },
                 "time": "2014-11-15T00:11:50+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1317,7 +1288,6 @@
                 },
                 "time": "2015-01-24T16:42:29+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1375,7 +1345,6 @@
                 },
                 "time": "2015-03-13T15:57:18+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1433,7 +1402,6 @@
                 },
                 "time": "2015-04-13T01:04:57+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1491,7 +1459,6 @@
                 },
                 "time": "2015-04-22T16:14:17+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1549,7 +1516,6 @@
                 },
                 "time": "2015-04-29T04:46:56+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1607,7 +1573,6 @@
                 },
                 "time": "2015-09-24T17:30:00+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1665,7 +1630,6 @@
                 },
                 "time": "2015-11-19T04:59:49+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1723,7 +1687,6 @@
                 },
                 "time": "2015-12-24T19:25:22+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1781,7 +1744,6 @@
                 },
                 "time": "2015-12-24T19:42:34+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1839,7 +1801,6 @@
                 },
                 "time": "2016-03-07T19:49:21+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "MIT"
                 ],
@@ -1900,7 +1861,6 @@
                 },
                 "time": "2016-08-30T18:15:45+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -1966,7 +1926,6 @@
                 },
                 "time": "2017-06-12T01:25:19+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -2032,7 +1991,6 @@
                 },
                 "time": "2017-08-14T01:36:41+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -2098,7 +2056,6 @@
                 },
                 "time": "2019-05-23T00:52:42+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -2164,7 +2121,6 @@
                 },
                 "time": "2019-05-23T21:45:50+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -2230,7 +2186,6 @@
                 },
                 "time": "2019-12-07T22:25:02+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "test": [
                         "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
@@ -2300,7 +2255,6 @@
                 },
                 "time": "2020-08-30T15:21:00+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -2392,7 +2346,6 @@
                 },
                 "time": "2020-08-31T16:21:16+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -2484,7 +2437,6 @@
                 },
                 "time": "2020-09-08T18:21:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -2576,7 +2528,6 @@
                 },
                 "time": "2020-09-08T21:33:19+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
@@ -2668,7 +2619,6 @@
                 },
                 "time": "2020-09-11T00:46:10+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"

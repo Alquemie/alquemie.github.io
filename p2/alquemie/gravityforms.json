@@ -21,7 +21,6 @@
                 },
                 "time": "2020-05-13T06:08:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -57,7 +56,6 @@
                 },
                 "time": "2020-07-16T20:37:37+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -93,7 +91,6 @@
                 },
                 "time": "2020-08-10T18:20:42+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -129,7 +126,6 @@
                 },
                 "time": "2020-08-23T14:59:32+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -165,7 +161,6 @@
                 },
                 "time": "2020-09-24T21:06:21+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -201,7 +196,6 @@
                 },
                 "time": "2020-10-19T15:39:07+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -237,7 +231,6 @@
                 },
                 "time": "2020-12-08T02:21:52+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -273,7 +266,6 @@
                 },
                 "time": "2021-01-11T03:07:04+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -309,7 +301,6 @@
                 },
                 "time": "2021-03-10T01:21:45+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
