@@ -84,6 +84,49 @@
                     "issues": "https://github.com/cedaro/gravity-forms-iframe/issues",
                     "source": "https://github.com/cedaro/gravity-forms-iframe"
                 }
+            },
+            {
+                "name": "cedaro/gravity-forms-iframe",
+                "version": "v2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/cedaro/gravity-forms-iframe.git",
+                    "reference": "45b45cf9adfd0e87040d54004afbbb2ccc8a85b9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/cedaro/gravity-forms-iframe/cedaro-gravity-forms-iframe-45b45cf9adfd0e87040d54004afbbb2ccc8a85b9-zip-f618cd.tar",
+                    "reference": "45b45cf9adfd0e87040d54004afbbb2ccc8a85b9",
+                    "shasum": "876e91065801d2972432deb49815eb9f660f8524"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2021-05-31T16:51:36+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Brady Vercher",
+                        "email": "brady@blazersix.com",
+                        "homepage": "http://www.cedaro.com/"
+                    }
+                ],
+                "description": "Embed a Gravity Form on any site using an iframe.",
+                "homepage": "https://github.com/cedaro/gravity-forms-iframe",
+                "keywords": [
+                    "gravity forms",
+                    "iframe",
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/cedaro/gravity-forms-iframe/issues",
+                    "source": "https://github.com/cedaro/gravity-forms-iframe"
+                }
             }
         ]
     }

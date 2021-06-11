@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/alquemie-config.git",
-                    "reference": "548a820643065839ed0479d1220c966858a3923c"
+                    "reference": "850e59d36bfb24b500e554f63202a64a6bc9a543"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/alquemie-config/zipball/548a820643065839ed0479d1220c966858a3923c",
-                    "reference": "548a820643065839ed0479d1220c966858a3923c",
+                    "url": "https://api.github.com/repos/Alquemie/alquemie-config/zipball/850e59d36bfb24b500e554f63202a64a6bc9a543",
+                    "reference": "850e59d36bfb24b500e554f63202a64a6bc9a543",
                     "shasum": ""
                 },
-                "time": "2021-03-15T21:54:22+00:00",
+                "time": "2021-05-05T01:07:11+00:00",
                 "type": "wordpress-muplugin",
                 "license": [
                     "GPL-3.0+"
@@ -29,7 +29,7 @@
                 ],
                 "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel",
                 "support": {
-                    "source": "https://github.com/Alquemie/alquemie-config/tree/0.1.11",
+                    "source": "https://github.com/Alquemie/alquemie-config/tree/master",
                     "issues": "https://github.com/Alquemie/alquemie-config/issues"
                 }
             }

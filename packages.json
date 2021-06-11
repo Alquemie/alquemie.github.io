@@ -1,9 +1,18 @@
 {
     "packages": [],
     "includes": {
-        "include/all$696aa74f58c17dde54691555d83408e8c26eacd0.json": {
-            "sha1": "696aa74f58c17dde54691555d83408e8c26eacd0"
+        "include/all$a4cabfd8f9e00f29750b6fac528ae89a75f49c13.json": {
+            "sha1": "a4cabfd8f9e00f29750b6fac528ae89a75f49c13"
         }
     },
-    "metadata-url": "/p2/%package%.json"
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "alquemie/advanced-custom-fields-pro",
+        "alquemie/alquemie-config",
+        "alquemie/gf-formname",
+        "alquemie/gravityforms",
+        "alquemie/gravityformsmailchimp",
+        "cedaro/gravity-forms-iframe",
+        "roots/soil"
+    ]
 }

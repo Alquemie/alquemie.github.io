@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "alquemie/gf-formname": [
+            {
+                "name": "alquemie/gf-formname",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-formname.git",
+                    "reference": "4a6502793e2b4ffb0483cb7a367fadba7151720c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gf-formname/zipball/4a6502793e2b4ffb0483cb7a367fadba7151720c",
+                    "reference": "4a6502793e2b4ffb0483cb7a367fadba7151720c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2018-10-06T17:33:44+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Adds Name Attribute to Gravity Form <form> tag",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-formname/tree/0.2.0",
+                    "issues": "https://github.com/Alquemie/gf-formname/issues"
+                }
+            }
+        ]
+    }
+}
