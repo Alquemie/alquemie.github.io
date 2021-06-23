@@ -336,7 +336,6 @@
                 },
                 "time": "2021-06-11T01:51:43+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],

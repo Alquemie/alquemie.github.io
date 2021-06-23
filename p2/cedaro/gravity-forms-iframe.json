@@ -105,7 +105,6 @@
                 },
                 "time": "2021-05-31T16:51:36+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-2.0+"
                 ],
