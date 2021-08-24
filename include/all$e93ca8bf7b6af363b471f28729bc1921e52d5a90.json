@@ -1442,6 +1442,99 @@
                 }
             }
         },
+        "alquemie/repeater2-for-gravity-forms": {
+            "2.0.3": {
+                "name": "alquemie/repeater2-for-gravity-forms",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
+                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/repeater2-for-gravity-forms/alquemie-repeater2-for-gravity-forms-82d1cb33eb88db7437bc051455f44650ee857171-zip-77b115.tar",
+                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171",
+                    "shasum": "b7d49246d5d81865c3f5169f0222053748f579f1"
+                },
+                "time": "2021-08-24T16:45:57+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    },
+                    {
+                        "name": "Ciprian Popescu",
+                        "homepage": "https://getbutterfly.com/"
+                    }
+                ],
+                "description": "Plugin that enables a repeater field group for Gravity Forms",
+                "support": {
+                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/2.0.3"
+                },
+                "funding": [
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/getbutterfly"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.buymeacoffee.com/wolffe"
+                    }
+                ]
+            },
+            "dev-master": {
+                "name": "alquemie/repeater2-for-gravity-forms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
+                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/repeater2-for-gravity-forms/zipball/82d1cb33eb88db7437bc051455f44650ee857171",
+                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171",
+                    "shasum": ""
+                },
+                "time": "2021-08-24T16:45:57+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    },
+                    {
+                        "name": "Ciprian Popescu",
+                        "homepage": "https://getbutterfly.com/"
+                    }
+                ],
+                "description": "Plugin that enables a repeater field group for Gravity Forms",
+                "support": {
+                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/2.0.3"
+                },
+                "funding": [
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/getbutterfly"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.buymeacoffee.com/wolffe"
+                    }
+                ]
+            }
+        },
         "cedaro/gravity-forms-iframe": {
             "v2.0.0": {
                 "name": "cedaro/gravity-forms-iframe",
