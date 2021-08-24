@@ -1561,7 +1561,6 @@
                 },
                 "time": "2021-07-27T17:22:59+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Soil\\": "src/"
