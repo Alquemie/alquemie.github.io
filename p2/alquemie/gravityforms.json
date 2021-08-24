@@ -406,7 +406,6 @@
                 },
                 "time": "2021-06-23T17:54:56+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -419,6 +418,42 @@
                 "description": "GravityForms Plugin by Rocketgenius, Inc.",
                 "support": {
                     "source": "https://github.com/Alquemie/gravityforms/tree/2.5.6",
+                    "issues": "https://github.com/Alquemie/gravityforms/issues"
+                }
+            },
+            {
+                "name": "alquemie/gravityforms",
+                "version": "2.5.9.3",
+                "version_normalized": "2.5.9.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityforms.git",
+                    "reference": "2fe2ede66f5bdf65a4169a9f372a73fa6e6451ff"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravityforms/alquemie-gravityforms-2fe2ede66f5bdf65a4169a9f372a73fa6e6451ff-zip-b1d448.tar",
+                    "reference": "2fe2ede66f5bdf65a4169a9f372a73fa6e6451ff",
+                    "shasum": "6e184e5cfad91422c060abd8137adacea93abead"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2021-08-24T13:48:08+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Plugin by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityforms/tree/2.5.9.3",
                     "issues": "https://github.com/Alquemie/gravityforms/issues"
                 }
             }
