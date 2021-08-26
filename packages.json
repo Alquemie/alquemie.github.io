@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$58aaf267e01d89f2c0c2d7439d87743823684516.json": {
-            "sha1": "58aaf267e01d89f2c0c2d7439d87743823684516"
+        "include/all$566d99e47e298568a8464b3caddcdc7c068aaddd.json": {
+            "sha1": "566d99e47e298568a8464b3caddcdc7c068aaddd"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -13,6 +13,7 @@
         "alquemie/gravityforms",
         "alquemie/gravityformsmailchimp",
         "alquemie/gravityformssignature",
+        "alquemie/gravityformsstripe",
         "alquemie/repeater2-for-gravity-forms",
         "cedaro/gravity-forms-iframe",
         "roots/soil"
