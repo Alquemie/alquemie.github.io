@@ -4,7 +4,7 @@
             {
                 "name": "alquemie/repeater2-for-gravity-forms",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
@@ -17,6 +17,7 @@
                     "shasum": ""
                 },
                 "time": "2021-08-24T16:45:57+00:00",
+                "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-3.0+"

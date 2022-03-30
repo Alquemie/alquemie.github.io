@@ -4,7 +4,7 @@
             {
                 "name": "alquemie/gravityformsstripe",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformsstripe.git",
@@ -17,6 +17,7 @@
                     "shasum": ""
                 },
                 "time": "2021-08-26T13:06:38+00:00",
+                "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
                     "GPLv3"

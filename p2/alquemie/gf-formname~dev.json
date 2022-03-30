@@ -4,7 +4,7 @@
             {
                 "name": "alquemie/gf-formname",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/gf-formname.git",
@@ -20,6 +20,7 @@
                     "php": ">=5.6"
                 },
                 "time": "2018-10-06T17:33:44+00:00",
+                "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-3.0"

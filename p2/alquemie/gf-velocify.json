@@ -1,0 +1,104 @@
+{
+    "packages": {
+        "alquemie/gf-velocify": [
+            {
+                "name": "alquemie/gf-velocify",
+                "version": "5.1.4",
+                "version_normalized": "5.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gf-velocify.git",
+                    "reference": "17a1cdeb778c1f3b99a35883c929706e81314b6e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-velocify/alquemie-gf-velocify-17a1cdeb778c1f3b99a35883c929706e81314b6e-zip-7886eb.tar",
+                    "reference": "17a1cdeb778c1f3b99a35883c929706e81314b6e",
+                    "shasum": "6b7d0d4b2e99d60cb3801afdf76af4d0c2ca5ee3"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "php": ">=7.0"
+                },
+                "time": "2022-02-21T16:09:36+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "scripts": {
+                    "nodeupdate": [
+                        "./scripts/composer/yarn-update"
+                    ],
+                    "post-install-cmd": [
+                        "@nodeupdate"
+                    ],
+                    "post-update-cmd": [
+                        "@nodeupdate"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "ccarrel@virtualhaven.net",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "Connector to transmit Gravify Form submissions to Velocify CRM",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-velocify/tree/5.1.4",
+                    "issues": "https://github.com/Alquemie/gf-velocify/issues"
+                }
+            },
+            {
+                "name": "alquemie/gf-velocify",
+                "version": "5.2.8",
+                "version_normalized": "5.2.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gf-velocify.git",
+                    "reference": "7470a72b84dcb07e969eacb9d27baf47bbb17268"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-velocify/alquemie-gf-velocify-7470a72b84dcb07e969eacb9d27baf47bbb17268-zip-a10515.tar",
+                    "reference": "7470a72b84dcb07e969eacb9d27baf47bbb17268",
+                    "shasum": "95dc1098fbebf42415894ecea8ad0230419726e4"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "php": ">=7.0"
+                },
+                "time": "2022-03-09T04:03:24+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "scripts": {
+                    "nodeupdate": [
+                        "./scripts/composer/yarn-update"
+                    ],
+                    "post-install-cmd": [
+                        "@nodeupdate"
+                    ],
+                    "post-update-cmd": [
+                        "@nodeupdate"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "ccarrel@virtualhaven.net",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "Connector to transmit Gravify Form submissions to Velocify CRM",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-velocify/tree/5.2.8",
+                    "issues": "https://github.com/Alquemie/gf-velocify/issues"
+                }
+            }
+        ]
+    }
+}

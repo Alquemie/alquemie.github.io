@@ -1,15 +1,17 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d4028278e1767b5eae62021124141d855628c5d6.json": {
-            "sha1": "d4028278e1767b5eae62021124141d855628c5d6"
+        "include/all$a9907889ff1e756ed85be0ec1bad8d51b456e49d.json": {
+            "sha1": "a9907889ff1e756ed85be0ec1bad8d51b456e49d"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "alquemie/advanced-custom-fields-pro",
         "alquemie/alquemie-config",
+        "alquemie/gf-campaign-fields",
         "alquemie/gf-formname",
+        "alquemie/gf-velocify",
         "alquemie/gravityforms",
         "alquemie/gravityformsmailchimp",
         "alquemie/gravityformssignature",

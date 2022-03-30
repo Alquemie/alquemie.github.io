@@ -4,7 +4,7 @@
             {
                 "name": "alquemie/gravityformsmailchimp",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformsmailchimp.git",
@@ -20,6 +20,7 @@
                     "php": ">=5.6"
                 },
                 "time": "2021-03-13T19:38:09+00:00",
+                "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
                     "GPLv3"

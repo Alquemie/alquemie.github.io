@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "alquemie/gf-velocify": [
+            {
+                "name": "alquemie/gf-velocify",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gf-velocify.git",
+                    "reference": "72b014895571582659ef3c41f4eb3d7433eb5855"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gf-velocify/zipball/72b014895571582659ef3c41f4eb3d7433eb5855",
+                    "reference": "72b014895571582659ef3c41f4eb3d7433eb5855",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "php": ">=7.0"
+                },
+                "time": "2022-03-09T15:04:20+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "scripts": {
+                    "nodeupdate": [
+                        "./scripts/composer/yarn-update"
+                    ],
+                    "post-install-cmd": [
+                        "@nodeupdate"
+                    ],
+                    "post-update-cmd": [
+                        "@nodeupdate"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "ccarrel@virtualhaven.net",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "Connector to transmit Gravify Form submissions to Velocify CRM",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-velocify/tree/main",
+                    "issues": "https://github.com/Alquemie/gf-velocify/issues"
+                }
+            }
+        ]
+    }
+}
