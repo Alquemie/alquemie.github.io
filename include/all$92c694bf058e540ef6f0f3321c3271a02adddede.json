@@ -56,7 +56,6 @@
                 },
                 "time": "2022-03-30T02:44:57+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -863,7 +862,6 @@
                 },
                 "time": "2017-04-11T13:24:26+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-3.0"
                 ],
@@ -901,7 +899,6 @@
                 },
                 "time": "2017-04-19T19:31:28+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-3.0"
                 ],
@@ -939,7 +936,6 @@
                 },
                 "time": "2017-04-21T18:06:22+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-3.0"
                 ],
@@ -1422,7 +1418,6 @@
                 },
                 "time": "2022-02-21T16:09:36+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "nodeupdate": [
                         "./scripts/composer/yarn-update"
@@ -1471,7 +1466,6 @@
                 },
                 "time": "2022-03-09T04:03:24+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "nodeupdate": [
                         "./scripts/composer/yarn-update"
@@ -2025,7 +2019,6 @@
                 },
                 "time": "2022-03-30T02:43:37+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -2222,6 +2215,42 @@
                     "issues": "https://github.com/Alquemie/gravityformssignature/issues"
                 }
             },
+            "4.2": {
+                "name": "alquemie/gravityformssignature",
+                "version": "4.2",
+                "version_normalized": "4.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformssignature.git",
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravityformssignature/alquemie-gravityformssignature-ea6a7edc269635e6ffcad3b199d2324c6e19c26b-zip-bc4e28.tar",
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b",
+                    "shasum": "8213fef0fb524fc11d54c051e066c67b5529105c"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2022-04-27T17:38:22+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Plugin Signature Add On by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformssignature/tree/4.2",
+                    "issues": "https://github.com/Alquemie/gravityformssignature/issues"
+                }
+            },
             "dev-master": {
                 "name": "alquemie/gravityformssignature",
                 "version": "dev-master",
@@ -2229,18 +2258,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformssignature.git",
-                    "reference": "830d41768e1d3861e9fe501692f839b9fcdbc753"
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/gravityformssignature/zipball/830d41768e1d3861e9fe501692f839b9fcdbc753",
-                    "reference": "830d41768e1d3861e9fe501692f839b9fcdbc753",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformssignature/zipball/ea6a7edc269635e6ffcad3b199d2324c6e19c26b",
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2021-08-24T18:17:04+00:00",
+                "time": "2022-04-27T17:38:22+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2254,7 +2283,7 @@
                 ],
                 "description": "GravityForms Plugin Signature Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformssignature/tree/4.0.3",
+                    "source": "https://github.com/Alquemie/gravityformssignature/tree/4.2",
                     "issues": "https://github.com/Alquemie/gravityformssignature/issues"
                 }
             }

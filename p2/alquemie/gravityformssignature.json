@@ -70,6 +70,42 @@
                     "source": "https://github.com/Alquemie/gravityformssignature/tree/4.0.3",
                     "issues": "https://github.com/Alquemie/gravityformssignature/issues"
                 }
+            },
+            {
+                "name": "alquemie/gravityformssignature",
+                "version": "4.2",
+                "version_normalized": "4.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformssignature.git",
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravityformssignature/alquemie-gravityformssignature-ea6a7edc269635e6ffcad3b199d2324c6e19c26b-zip-bc4e28.tar",
+                    "reference": "ea6a7edc269635e6ffcad3b199d2324c6e19c26b",
+                    "shasum": "8213fef0fb524fc11d54c051e066c67b5529105c"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2022-04-27T17:38:22+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Plugin Signature Add On by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformssignature/tree/4.2",
+                    "issues": "https://github.com/Alquemie/gravityformssignature/issues"
+                }
             }
         ]
     }

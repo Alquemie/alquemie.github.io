@@ -22,7 +22,6 @@
                 },
                 "time": "2022-02-21T16:09:36+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "nodeupdate": [
                         "./scripts/composer/yarn-update"
@@ -71,7 +70,6 @@
                 },
                 "time": "2022-03-09T04:03:24+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "scripts": {
                     "nodeupdate": [
                         "./scripts/composer/yarn-update"
