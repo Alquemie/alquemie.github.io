@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/advanced-custom-fields-pro.git",
-                    "reference": "88937794874ab9b0c007dfff155b2498e9823393"
+                    "reference": "93a409104a9895bd4c9a2d79f8b5f90b37390461"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/advanced-custom-fields-pro/zipball/88937794874ab9b0c007dfff155b2498e9823393",
-                    "reference": "88937794874ab9b0c007dfff155b2498e9823393",
+                    "url": "https://api.github.com/repos/Alquemie/advanced-custom-fields-pro/zipball/93a409104a9895bd4c9a2d79f8b5f90b37390461",
+                    "reference": "93a409104a9895bd4c9a2d79f8b5f90b37390461",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2022-03-30T02:44:57+00:00",
+                "time": "2022-04-27T17:48:34+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "Advanced Custom Fields Pro by ACF Team",
                 "support": {
-                    "source": "https://github.com/Alquemie/advanced-custom-fields-pro/tree/5.12.1",
+                    "source": "https://github.com/Alquemie/advanced-custom-fields-pro/tree/5.12.2",
                     "issues": "https://github.com/Alquemie/advanced-custom-fields-pro/issues"
                 }
             }
