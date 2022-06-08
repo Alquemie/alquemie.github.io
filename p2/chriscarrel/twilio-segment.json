@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "chriscarrel/twilio-segment": [
+            {
+                "name": "chriscarrel/twilio-segment",
+                "version": "v1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:chriscarrel/twilio-segment.git",
+                    "reference": "0fc0020ca7d6fe126623f2835d067e43ff6476df"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/chriscarrel/twilio-segment/chriscarrel-twilio-segment-0fc0020ca7d6fe126623f2835d067e43ff6476df-zip-14c87e.tar",
+                    "reference": "0fc0020ca7d6fe126623f2835d067e43ff6476df",
+                    "shasum": "077edb25e5510ffe042a7de32141f685da7ecd30"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "php": "^5.6|^7"
+                },
+                "require-dev": {
+                    "brain/monkey": "^2.2",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+                    "phpunit/phpunit": "~5.7.9",
+                    "roave/security-advisories": "dev-master",
+                    "sirbrillig/phpcs-variable-analysis": "^2.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "wimg/php-compatibility": "^8.0",
+                    "wp-coding-standards/wpcs": "^0.14.1"
+                },
+                "time": "2022-06-08T02:45:17+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Twilio\\Segment\\Tests\\PHP\\": "tests/php/",
+                        "Twilio\\Segment\\Tests\\PHP\\Unit\\": "tests/php/unit/",
+                        "Twilio\\Segment\\Tests\\PHP\\Integration\\": "tests/php/integration/"
+                    }
+                },
+                "scripts": {
+                    "install-codestandards": [
+                        "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin::run"
+                    ],
+                    "phpcs-src": [
+                        "\"vendor/bin/phpcs\" src/"
+                    ],
+                    "phpcs-tests": [
+                        "\"vendor/bin/phpcs\" tests/php/"
+                    ],
+                    "run-phpcs": [
+                        "@phpcs-src",
+                        "@phpcs-tests"
+                    ],
+                    "test-unit": [
+                        "\"vendor/bin/phpunit\" --testsuite unit --color=always"
+                    ],
+                    "test-integration": [
+                        "\"vendor/bin/phpunit\" --testsuite integration --configuration tests/php/integration/phpunit.xml.dist --color=always"
+                    ],
+                    "run-tests": [
+                        "@test-unit",
+                        "@test-integration"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js source with basic support for Gravity Forms.",
+                "homepage": "https://segment.com/",
+                "support": {
+                    "issues": "https://github.com/chriscarrel/twilio-segment/issues",
+                    "source": "https://github.com/chriscarrel/twilio-segment"
+                }
+            }
+        ]
+    }
+}
