@@ -32,7 +32,6 @@
                 },
                 "time": "2022-06-08T02:45:17+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
