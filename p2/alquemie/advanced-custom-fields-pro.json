@@ -546,7 +546,6 @@
                 },
                 "time": "2022-10-01T20:43:02+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -559,6 +558,42 @@
                 "description": "Advanced Custom Fields Pro by ACF Team",
                 "support": {
                     "source": "https://github.com/Alquemie/advanced-custom-fields-pro/tree/6.0.2",
+                    "issues": "https://github.com/Alquemie/advanced-custom-fields-pro/issues"
+                }
+            },
+            {
+                "name": "alquemie/advanced-custom-fields-pro",
+                "version": "6.0.6",
+                "version_normalized": "6.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/advanced-custom-fields-pro.git",
+                    "reference": "01f3ca9702bb2bb3b6a707e09d33c0f1735f8dac"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/advanced-custom-fields-pro/alquemie-advanced-custom-fields-pro-01f3ca9702bb2bb3b6a707e09d33c0f1735f8dac-zip-1ec900.tar",
+                    "reference": "01f3ca9702bb2bb3b6a707e09d33c0f1735f8dac",
+                    "shasum": "184e2bd776a4519a9918f1281ab774082dc134d8"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2022-12-15T21:56:19+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "ACF Team",
+                        "homepage": "https://www.advancedcustomfields.com/"
+                    }
+                ],
+                "description": "Advanced Custom Fields Pro by ACF Team",
+                "support": {
+                    "source": "https://github.com/Alquemie/advanced-custom-fields-pro/tree/6.0.6",
                     "issues": "https://github.com/Alquemie/advanced-custom-fields-pro/issues"
                 }
             }

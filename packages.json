@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$516f83444f392687c754e4202f56fdc4b7ae52c3.json": {
-            "sha1": "516f83444f392687c754e4202f56fdc4b7ae52c3"
+        "include/all$aee8de98347a2abfe959269dd23d9e10e9bd59b0.json": {
+            "sha1": "aee8de98347a2abfe959269dd23d9e10e9bd59b0"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -18,7 +18,6 @@
         "alquemie/gravityformsstripe",
         "alquemie/repeater2-for-gravity-forms",
         "cedaro/gravity-forms-iframe",
-        "chriscarrel/twilio-segment",
         "roots/soil"
     ]
 }

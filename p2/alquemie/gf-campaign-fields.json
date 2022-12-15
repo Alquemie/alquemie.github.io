@@ -406,6 +406,142 @@
                     "source": "https://github.com/Alquemie/gf-campaign-fields/tree/2.4.0",
                     "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
                 }
+            },
+            {
+                "name": "alquemie/gf-campaign-fields",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-campaign-fields.git",
+                    "reference": "15d433b5af979298bd4461699930c015d8e04dbf"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-campaign-fields/alquemie-gf-campaign-fields-15d433b5af979298bd4461699930c015d8e04dbf-zip-f1f312.tar",
+                    "reference": "15d433b5af979298bd4461699930c015d8e04dbf",
+                    "shasum": "ca5f8d703904ec313076b6c4f6b4b60ac3a552d4"
+                },
+                "time": "2022-11-22T19:41:55+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Creates Gravity Form fields that store campaign information so it can be sent to 3rd party tools",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-campaign-fields/tree/2.5.0",
+                    "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
+                }
+            },
+            {
+                "name": "alquemie/gf-campaign-fields",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-campaign-fields.git",
+                    "reference": "10ea2dbf3b9743e10a248f5747467318b8dee184"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-campaign-fields/alquemie-gf-campaign-fields-10ea2dbf3b9743e10a248f5747467318b8dee184-zip-74d126.tar",
+                    "reference": "10ea2dbf3b9743e10a248f5747467318b8dee184",
+                    "shasum": "588852e8bae0312109902e7e7eb375363f962bf0"
+                },
+                "time": "2022-12-01T18:17:47+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Creates Gravity Form fields that store campaign information so it can be sent to 3rd party tools",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-campaign-fields/tree/3.0.0",
+                    "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
+                }
+            },
+            {
+                "name": "alquemie/gf-campaign-fields",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-campaign-fields.git",
+                    "reference": "f3fe7f3f2512014ebc03220d0c4e342495fe0b50"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-campaign-fields/alquemie-gf-campaign-fields-f3fe7f3f2512014ebc03220d0c4e342495fe0b50-zip-0220db.tar",
+                    "reference": "f3fe7f3f2512014ebc03220d0c4e342495fe0b50",
+                    "shasum": "27e6b8500c470b231fc10b824b1f2a38f056c6cb"
+                },
+                "time": "2022-12-01T20:29:57+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Creates Gravity Form fields that store campaign information so it can be sent to 3rd party tools",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-campaign-fields/tree/3.0.1",
+                    "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
+                }
+            },
+            {
+                "name": "alquemie/gf-campaign-fields",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-campaign-fields.git",
+                    "reference": "5e261d58ae45489116797b430b0e4f8438a2e56c"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gf-campaign-fields/alquemie-gf-campaign-fields-5e261d58ae45489116797b430b0e4f8438a2e56c-zip-7e4f19.tar",
+                    "reference": "5e261d58ae45489116797b430b0e4f8438a2e56c",
+                    "shasum": "18852cd5cad72f723a9a5a2a8c40ce11d191365a"
+                },
+                "time": "2022-12-01T23:55:59+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Creates Gravity Form fields that store campaign information so it can be sent to 3rd party tools",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-campaign-fields/tree/3.0.2",
+                    "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
+                }
             }
         ]
     }
