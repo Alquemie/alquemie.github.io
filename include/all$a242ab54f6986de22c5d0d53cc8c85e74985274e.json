@@ -978,6 +978,39 @@
                     "issues": "https://github.com/Alquemie/alquemie-config/issues"
                 }
             },
+            "0.2.2": {
+                "name": "alquemie/alquemie-config",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/alquemie-config.git",
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/alquemie-config/alquemie-alquemie-config-bec22fe2dd15ced20daaf47a9395b1348a9e91b6-zip-a9c7ff.tar",
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6",
+                    "shasum": "6e41487f78b4dfbd5e7387a6d58f3f78131b7ebe"
+                },
+                "time": "2022-12-16T01:02:46+00:00",
+                "type": "wordpress-muplugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    }
+                ],
+                "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel",
+                "support": {
+                    "source": "https://github.com/Alquemie/alquemie-config/tree/0.2.2",
+                    "issues": "https://github.com/Alquemie/alquemie-config/issues"
+                }
+            },
             "dev-master": {
                 "name": "alquemie/alquemie-config",
                 "version": "dev-master",
@@ -985,15 +1018,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/alquemie-config.git",
-                    "reference": "3f090b7801427611cb11a8bc3cb89421119b5f66"
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/alquemie-config/zipball/3f090b7801427611cb11a8bc3cb89421119b5f66",
-                    "reference": "3f090b7801427611cb11a8bc3cb89421119b5f66",
+                    "url": "https://api.github.com/repos/Alquemie/alquemie-config/zipball/bec22fe2dd15ced20daaf47a9395b1348a9e91b6",
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6",
                     "shasum": ""
                 },
-                "time": "2022-12-16T00:47:27+00:00",
+                "time": "2022-12-16T01:02:46+00:00",
                 "default-branch": true,
                 "type": "wordpress-muplugin",
                 "license": [
@@ -1007,7 +1040,7 @@
                 ],
                 "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel",
                 "support": {
-                    "source": "https://github.com/Alquemie/alquemie-config/tree/0.2.1",
+                    "source": "https://github.com/Alquemie/alquemie-config/tree/0.2.2",
                     "issues": "https://github.com/Alquemie/alquemie-config/issues"
                 }
             }
@@ -3843,7 +3876,6 @@
                 },
                 "time": "2020-05-16T12:24:33+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -3914,7 +3946,6 @@
                 },
                 "time": "2020-05-16T12:30:54+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -3985,7 +4016,6 @@
                 },
                 "time": "2020-05-16T15:00:17+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -4056,7 +4086,6 @@
                 },
                 "time": "2020-05-18T04:43:20+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -4131,7 +4160,6 @@
                 },
                 "time": "2020-12-04T15:59:12+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"

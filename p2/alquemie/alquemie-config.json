@@ -344,6 +344,39 @@
                     "source": "https://github.com/Alquemie/alquemie-config/tree/0.2.0",
                     "issues": "https://github.com/Alquemie/alquemie-config/issues"
                 }
+            },
+            {
+                "name": "alquemie/alquemie-config",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/alquemie-config.git",
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/alquemie-config/alquemie-alquemie-config-bec22fe2dd15ced20daaf47a9395b1348a9e91b6-zip-a9c7ff.tar",
+                    "reference": "bec22fe2dd15ced20daaf47a9395b1348a9e91b6",
+                    "shasum": "6e41487f78b4dfbd5e7387a6d58f3f78131b7ebe"
+                },
+                "time": "2022-12-16T01:02:46+00:00",
+                "type": "wordpress-muplugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    }
+                ],
+                "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel",
+                "support": {
+                    "source": "https://github.com/Alquemie/alquemie-config/tree/0.2.2",
+                    "issues": "https://github.com/Alquemie/alquemie-config/issues"
+                }
             }
         ]
     }

@@ -21,7 +21,6 @@
                 },
                 "time": "2020-05-16T12:24:33+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -92,7 +91,6 @@
                 },
                 "time": "2020-05-16T12:30:54+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -163,7 +161,6 @@
                 },
                 "time": "2020-05-16T15:00:17+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -234,7 +231,6 @@
                 },
                 "time": "2020-05-18T04:43:20+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
@@ -309,7 +305,6 @@
                 },
                 "time": "2020-12-04T15:59:12+00:00",
                 "type": "library",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Roots\\Bedrock\\": "src/"
