@@ -1,0 +1,160 @@
+{
+    "packages": {
+        "roots/bedrock-autoloader": [
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "4cc5ef2cb8a7161a5381d2137e9ff4984c4759c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/roots/bedrock-autoloader/zipball/4cc5ef2cb8a7161a5381d2137e9ff4984c4759c4",
+                    "reference": "4cc5ef2cb8a7161a5381d2137e9ff4984c4759c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "require-dev": {
+                    "10up/wp_mock": "^0.4.2",
+                    "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0"
+                },
+                "time": "2022-10-04T15:29:49+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/master",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            },
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "dev-unit-tests",
+                "version_normalized": "dev-unit-tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "a1d0077eaff6151d97410eff2021dcdec6efb338"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/roots/bedrock-autoloader/zipball/a1d0077eaff6151d97410eff2021dcdec6efb338",
+                    "reference": "a1d0077eaff6151d97410eff2021dcdec6efb338",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "require-dev": {
+                    "10up/wp_mock": "^0.4.2",
+                    "phpunit/phpunit": "^9.1"
+                },
+                "time": "2020-05-18T04:41:37+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "phpunit"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/unit-tests",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            }
+        ]
+    }
+}

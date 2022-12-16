@@ -1,0 +1,365 @@
+{
+    "packages": {
+        "roots/bedrock-autoloader": [
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "e1c980ee0282c077ec04b1244a6d09d84be57ad3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/roots/bedrock-autoloader/roots-bedrock-autoloader-e1c980ee0282c077ec04b1244a6d09d84be57ad3-zip-75f0d3.tar",
+                    "reference": "e1c980ee0282c077ec04b1244a6d09d84be57ad3",
+                    "shasum": "8161c01cc641e415335b3e6d7ddca8dd95ec63c1"
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "time": "2020-05-16T12:24:33+00:00",
+                "type": "library",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/1.0.0",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            },
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "baf3e8137795061759e9395a3660ffe587a1993b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/roots/bedrock-autoloader/roots-bedrock-autoloader-baf3e8137795061759e9395a3660ffe587a1993b-zip-fdaf49.tar",
+                    "reference": "baf3e8137795061759e9395a3660ffe587a1993b",
+                    "shasum": "ee68fa14c3efdd608be247e7c934564c2724edfc"
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "time": "2020-05-16T12:30:54+00:00",
+                "type": "library",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/1.0.1",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            },
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "39dab98cf2fea1b1debb40c6d64ee6947ce98d64"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/roots/bedrock-autoloader/roots-bedrock-autoloader-39dab98cf2fea1b1debb40c6d64ee6947ce98d64-zip-9f7b2b.tar",
+                    "reference": "39dab98cf2fea1b1debb40c6d64ee6947ce98d64",
+                    "shasum": "76a369b735a53a692d154385cc82d2cfd9fe2079"
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "time": "2020-05-16T15:00:17+00:00",
+                "type": "library",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/1.0.2",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            },
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "885f2a5c425d82dfd811ef4f13ab8f5bcc89cd70"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/roots/bedrock-autoloader/roots-bedrock-autoloader-885f2a5c425d82dfd811ef4f13ab8f5bcc89cd70-zip-643e70.tar",
+                    "reference": "885f2a5c425d82dfd811ef4f13ab8f5bcc89cd70",
+                    "shasum": "05e143ce1171fa1097d57d374ae7810f483dea03"
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "time": "2020-05-18T04:43:20+00:00",
+                "type": "library",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/1.0.3",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            },
+            {
+                "name": "roots/bedrock-autoloader",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/roots/bedrock-autoloader.git",
+                    "reference": "f508348a3365ab5ce7e045f5fd4ee9f0a30dd70f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/roots/bedrock-autoloader/roots-bedrock-autoloader-f508348a3365ab5ce7e045f5fd4ee9f0a30dd70f-zip-403d10.tar",
+                    "reference": "f508348a3365ab5ce7e045f5fd4ee9f0a30dd70f",
+                    "shasum": "8882e6df1fe5a8409e68ffc7144a803cb109db9f"
+                },
+                "require": {
+                    "php": ">=7.1"
+                },
+                "require-dev": {
+                    "10up/wp_mock": "^0.4.2",
+                    "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0"
+                },
+                "time": "2020-12-04T15:59:12+00:00",
+                "type": "library",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Fox",
+                        "email": "nick@foxaii.com",
+                        "homepage": "https://github.com/foxaii"
+                    },
+                    {
+                        "name": "Scott Walkinshaw",
+                        "email": "scott.walkinshaw@gmail.com",
+                        "homepage": "https://github.com/swalkinshaw"
+                    },
+                    {
+                        "name": "Austin Pray",
+                        "email": "austin@austinpray.com",
+                        "homepage": "https://github.com/austinpray"
+                    }
+                ],
+                "description": "An autoloader that enables standard plugins to be required just like must-use plugins",
+                "keywords": [
+                    "autoloader",
+                    "bedrock",
+                    "mu-plugin",
+                    "must-use",
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/roots/bedrock-autoloader/tree/1.0.4",
+                    "issues": "https://github.com/roots/bedrock-autoloader/issues"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/roots"
+                    },
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/rootsdev"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$22e9c7ff4c5299b1a55a560d61df36590b07c0d6.json": {
-            "sha1": "22e9c7ff4c5299b1a55a560d61df36590b07c0d6"
+        "include/all$5f3147b41dff76cc017e6e41085f0a6271e3e17a.json": {
+            "sha1": "5f3147b41dff76cc017e6e41085f0a6271e3e17a"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -20,6 +20,7 @@
         "alquemie/gravityformsstripe",
         "alquemie/repeater2-for-gravity-forms",
         "cedaro/gravity-forms-iframe",
+        "roots/bedrock-autoloader",
         "roots/soil"
     ]
 }

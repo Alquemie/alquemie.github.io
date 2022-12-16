@@ -32,7 +32,6 @@
                 },
                 "time": "2021-11-09T15:21:52+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -111,7 +110,6 @@
                 },
                 "time": "2021-11-10T01:10:05+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -190,7 +188,6 @@
                 },
                 "time": "2022-06-08T02:45:17+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -263,7 +260,6 @@
                 },
                 "time": "2022-11-21T04:09:04+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -304,7 +300,6 @@
                 },
                 "time": "2022-12-01T16:58:14+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -345,7 +340,6 @@
                 },
                 "time": "2022-12-01T20:28:32+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -386,7 +380,6 @@
                 },
                 "time": "2022-12-01T22:10:52+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
