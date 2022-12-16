@@ -1,0 +1,407 @@
+{
+    "packages": {
+        "alquemie/cdp-analytics": [
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "v1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "18c905fb4a8affa6cbd64f00f1d503d93686cb77"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-18c905fb4a8affa6cbd64f00f1d503d93686cb77-zip-2dc8d3.tar",
+                    "reference": "18c905fb4a8affa6cbd64f00f1d503d93686cb77",
+                    "shasum": "84c782f042896d50632d2d26d6c18c807304ed4f"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "php": "^5.6|^7"
+                },
+                "require-dev": {
+                    "brain/monkey": "^2.2",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+                    "phpunit/phpunit": "~5.7.9",
+                    "roave/security-advisories": "dev-master",
+                    "sirbrillig/phpcs-variable-analysis": "^2.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "wimg/php-compatibility": "^8.0",
+                    "wp-coding-standards/wpcs": "^0.14.1"
+                },
+                "time": "2021-11-09T15:21:52+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Twilio\\Segment\\Tests\\PHP\\": "tests/php/",
+                        "Twilio\\Segment\\Tests\\PHP\\Unit\\": "tests/php/unit/",
+                        "Twilio\\Segment\\Tests\\PHP\\Integration\\": "tests/php/integration/"
+                    }
+                },
+                "scripts": {
+                    "install-codestandards": [
+                        "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin::run"
+                    ],
+                    "phpcs-src": [
+                        "\"vendor/bin/phpcs\" src/"
+                    ],
+                    "phpcs-tests": [
+                        "\"vendor/bin/phpcs\" tests/php/"
+                    ],
+                    "run-phpcs": [
+                        "@phpcs-src",
+                        "@phpcs-tests"
+                    ],
+                    "test-unit": [
+                        "\"vendor/bin/phpunit\" --testsuite unit --color=always"
+                    ],
+                    "test-integration": [
+                        "\"vendor/bin/phpunit\" --testsuite integration --configuration tests/php/integration/phpunit.xml.dist --color=always"
+                    ],
+                    "run-tests": [
+                        "@test-unit",
+                        "@test-integration"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js source with basic support for Gravity Forms.",
+                "homepage": "https://segment.com/",
+                "support": {
+                    "issues": "https://github.com/segmentio/twilio-segment-wp/issues",
+                    "source": "https://github.com/segmentio/twilio-segment-wp"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "v1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "d52c5b2df23e202e21b07ab6415e21b16f74ab20"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-d52c5b2df23e202e21b07ab6415e21b16f74ab20-zip-3bb29f.tar",
+                    "reference": "d52c5b2df23e202e21b07ab6415e21b16f74ab20",
+                    "shasum": "3e76e5b2f1383f48996bd3a39905ce544c0dc173"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "php": "^5.6|^7"
+                },
+                "require-dev": {
+                    "brain/monkey": "^2.2",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+                    "phpunit/phpunit": "~5.7.9",
+                    "roave/security-advisories": "dev-master",
+                    "sirbrillig/phpcs-variable-analysis": "^2.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "wimg/php-compatibility": "^8.0",
+                    "wp-coding-standards/wpcs": "^0.14.1"
+                },
+                "time": "2021-11-10T01:10:05+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Twilio\\Segment\\Tests\\PHP\\": "tests/php/",
+                        "Twilio\\Segment\\Tests\\PHP\\Unit\\": "tests/php/unit/",
+                        "Twilio\\Segment\\Tests\\PHP\\Integration\\": "tests/php/integration/"
+                    }
+                },
+                "scripts": {
+                    "install-codestandards": [
+                        "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin::run"
+                    ],
+                    "phpcs-src": [
+                        "\"vendor/bin/phpcs\" src/"
+                    ],
+                    "phpcs-tests": [
+                        "\"vendor/bin/phpcs\" tests/php/"
+                    ],
+                    "run-phpcs": [
+                        "@phpcs-src",
+                        "@phpcs-tests"
+                    ],
+                    "test-unit": [
+                        "\"vendor/bin/phpunit\" --testsuite unit --color=always"
+                    ],
+                    "test-integration": [
+                        "\"vendor/bin/phpunit\" --testsuite integration --configuration tests/php/integration/phpunit.xml.dist --color=always"
+                    ],
+                    "run-tests": [
+                        "@test-unit",
+                        "@test-integration"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js source with basic support for Gravity Forms.",
+                "homepage": "https://segment.com/",
+                "support": {
+                    "issues": "https://github.com/segmentio/twilio-segment-wp/issues",
+                    "source": "https://github.com/segmentio/twilio-segment-wp"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "v1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "0fc0020ca7d6fe126623f2835d067e43ff6476df"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-0fc0020ca7d6fe126623f2835d067e43ff6476df-zip-14c87e.tar",
+                    "reference": "0fc0020ca7d6fe126623f2835d067e43ff6476df",
+                    "shasum": "af4bc9ce3825f99bd81dcaea62574f12cac64844"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "php": "^5.6|^7"
+                },
+                "require-dev": {
+                    "brain/monkey": "^2.2",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+                    "phpunit/phpunit": "~5.7.9",
+                    "roave/security-advisories": "dev-master",
+                    "sirbrillig/phpcs-variable-analysis": "^2.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "wimg/php-compatibility": "^8.0",
+                    "wp-coding-standards/wpcs": "^0.14.1"
+                },
+                "time": "2022-06-08T02:45:17+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Twilio\\Segment\\Tests\\PHP\\": "tests/php/",
+                        "Twilio\\Segment\\Tests\\PHP\\Unit\\": "tests/php/unit/",
+                        "Twilio\\Segment\\Tests\\PHP\\Integration\\": "tests/php/integration/"
+                    }
+                },
+                "scripts": {
+                    "install-codestandards": [
+                        "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin::run"
+                    ],
+                    "phpcs-src": [
+                        "\"vendor/bin/phpcs\" src/"
+                    ],
+                    "phpcs-tests": [
+                        "\"vendor/bin/phpcs\" tests/php/"
+                    ],
+                    "run-phpcs": [
+                        "@phpcs-src",
+                        "@phpcs-tests"
+                    ],
+                    "test-unit": [
+                        "\"vendor/bin/phpunit\" --testsuite unit --color=always"
+                    ],
+                    "test-integration": [
+                        "\"vendor/bin/phpunit\" --testsuite integration --configuration tests/php/integration/phpunit.xml.dist --color=always"
+                    ],
+                    "run-tests": [
+                        "@test-unit",
+                        "@test-integration"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js source with basic support for Gravity Forms.",
+                "homepage": "https://segment.com/",
+                "support": {
+                    "issues": "https://github.com/chriscarrel/twilio-segment/issues",
+                    "source": "https://github.com/chriscarrel/twilio-segment"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "22144b0d3200c5d37d38d20ed3e0c4bcedb0c680"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-22144b0d3200c5d37d38d20ed3e0c4bcedb0c680-zip-3ca173.tar",
+                    "reference": "22144b0d3200c5d37d38d20ed3e0c4bcedb0c680",
+                    "shasum": "d192dc7eb839d06be59013a63c49cd0ecbeb7f70"
+                },
+                "require": {
+                    "composer/installers": "^1.0",
+                    "php": "^7.4|^8",
+                    "segmentio/analytics-php": "^3.5"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2022-11-21T04:09:04+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for Gravity Forms",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/segment-cdp/issues",
+                    "source": "https://github.com/alquemie/segment-cdp"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "db3d20ec3b7bfc07c52a594be10dd6e5d4dd354a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-db3d20ec3b7bfc07c52a594be10dd6e5d4dd354a-zip-ca4f13.tar",
+                    "reference": "db3d20ec3b7bfc07c52a594be10dd6e5d4dd354a",
+                    "shasum": "a08cb12567bd4c303ecfe6febecd82aec6a8197a"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "segmentio/analytics-php": "^3.5"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2022-12-01T16:58:14+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "96a61f9a86a64e7804a1a18dc460764070fd441a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-96a61f9a86a64e7804a1a18dc460764070fd441a-zip-a31283.tar",
+                    "reference": "96a61f9a86a64e7804a1a18dc460764070fd441a",
+                    "shasum": "0705a23f7433bc66c2080ad8015474554e899a83"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "segmentio/analytics-php": "^3.5"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2022-12-01T20:28:32+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "9cc455c31f21f26b4d3e4c2e4be459c454116f55"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-9cc455c31f21f26b4d3e4c2e4be459c454116f55-zip-620d9b.tar",
+                    "reference": "9cc455c31f21f26b4d3e4c2e4be459c454116f55",
+                    "shasum": "81c297e0e666ba4e2266bccf320a5c0f626a5478"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "segmentio/analytics-php": "^3.5"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2022-12-01T22:10:52+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            }
+        ]
+    }
+}

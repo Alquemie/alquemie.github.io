@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "alquemie/cdp-analytics-gf": [
+            {
+                "name": "alquemie/cdp-analytics-gf",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/cdp-analytics-gf.git",
+                    "reference": "75b6d582f6fbfe39af516bb4c3d6faa54c8bd0c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics-gf/zipball/75b6d582f6fbfe39af516bb4c3d6faa54c8bd0c1",
+                    "reference": "75b6d582f6fbfe39af516bb4c3d6faa54c8bd0c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2022-12-02T12:36:35+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "GravityForms AddOn for the CDP Analytics plugin",
+                "homepage": "https://alquemie.net/plugins/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics-gf/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics-gf"
+                }
+            }
+        ]
+    }
+}

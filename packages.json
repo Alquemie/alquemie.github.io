@@ -1,14 +1,16 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0b699d9cd09e8c1b754f5398108d7e7b027240a1.json": {
-            "sha1": "0b699d9cd09e8c1b754f5398108d7e7b027240a1"
+        "include/all$22e9c7ff4c5299b1a55a560d61df36590b07c0d6.json": {
+            "sha1": "22e9c7ff4c5299b1a55a560d61df36590b07c0d6"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "alquemie/advanced-custom-fields-pro",
         "alquemie/alquemie-config",
+        "alquemie/cdp-analytics",
+        "alquemie/cdp-analytics-gf",
         "alquemie/gf-campaign-fields",
         "alquemie/gf-formname",
         "alquemie/gf-velocify",
