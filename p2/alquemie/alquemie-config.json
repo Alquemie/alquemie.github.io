@@ -362,7 +362,6 @@
                 },
                 "time": "2022-12-16T01:02:46+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-3.0+"
                 ],
