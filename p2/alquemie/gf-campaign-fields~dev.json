@@ -3,6 +3,39 @@
         "alquemie/gf-campaign-fields": [
             {
                 "name": "alquemie/gf-campaign-fields",
+                "version": "dev-dependabot/npm_and_yarn/http-cache-semantics-4.1.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/http-cache-semantics-4.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/gf-campaign-fields.git",
+                    "reference": "7e40fc2c9753af662288e62f58ef0af49bc7f609"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gf-campaign-fields/zipball/7e40fc2c9753af662288e62f58ef0af49bc7f609",
+                    "reference": "7e40fc2c9753af662288e62f58ef0af49bc7f609",
+                    "shasum": ""
+                },
+                "time": "2023-02-04T19:27:37+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "plugins@alquemie.net"
+                    }
+                ],
+                "description": "Creates Gravity Form fields that store campaign information so it can be sent to 3rd party tools",
+                "homepage": "https://www.gravityaddons.com",
+                "support": {
+                    "source": "https://github.com/Alquemie/gf-campaign-fields/tree/dependabot/npm_and_yarn/http-cache-semantics-4.1.1",
+                    "issues": "https://github.com/Alquemie/gf-campaign-fields/issues"
+                }
+            },
+            {
+                "name": "alquemie/gf-campaign-fields",
                 "version": "dev-dependabot/npm_and_yarn/json5-2.2.3",
                 "version_normalized": "dev-dependabot/npm_and_yarn/json5-2.2.3",
                 "source": {
