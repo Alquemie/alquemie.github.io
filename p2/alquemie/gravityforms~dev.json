@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityforms.git",
-                    "reference": "d93c395c47d9d94b0e93d9ab608d584e3eff437f"
+                    "reference": "7cba2d6705e3824ed8a6ee6c508218c1d799daa5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/gravityforms/zipball/d93c395c47d9d94b0e93d9ab608d584e3eff437f",
-                    "reference": "d93c395c47d9d94b0e93d9ab608d584e3eff437f",
+                    "url": "https://api.github.com/repos/Alquemie/gravityforms/zipball/7cba2d6705e3824ed8a6ee6c508218c1d799daa5",
+                    "reference": "7cba2d6705e3824ed8a6ee6c508218c1d799daa5",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2023-02-11T22:09:04+00:00",
+                "time": "2023-02-17T07:08:25+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "GravityForms Plugin by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityforms/tree/2.7.0.3",
+                    "source": "https://github.com/Alquemie/gravityforms/tree/2.7.1",
                     "issues": "https://github.com/Alquemie/gravityforms/issues"
                 }
             }

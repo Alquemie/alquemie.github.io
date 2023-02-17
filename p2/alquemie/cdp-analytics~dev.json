@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/cdp-analytics.git",
-                    "reference": "ef037b7e5832cafcb02bc0ec6d52c1f822e3dcac"
+                    "reference": "eab72ddac3af65c94e6843c824ed79cde4c8661f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/ef037b7e5832cafcb02bc0ec6d52c1f822e3dcac",
-                    "reference": "ef037b7e5832cafcb02bc0ec6d52c1f822e3dcac",
+                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/eab72ddac3af65c94e6843c824ed79cde4c8661f",
+                    "reference": "eab72ddac3af65c94e6843c824ed79cde4c8661f",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "^2.0",
                     "php": "^7.4|^8",
-                    "qriouslad/codestar-framework": "v2.2.8.1",
+                    "qriouslad/codestar-framework": "^2.2.8",
                     "segmentio/analytics-php": "^3.5",
                     "woocommerce/action-scheduler": "^3.5",
                     "yahnis-elsts/plugin-update-checker": "^5.0"
@@ -27,7 +27,7 @@
                 "require-dev": {
                     "roave/security-advisories": "dev-master"
                 },
-                "time": "2022-12-12T15:20:07+00:00",
+                "time": "2023-02-16T03:20:57+00:00",
                 "type": "wordpress-plugin",
                 "extra": {
                     "installer-paths": {
