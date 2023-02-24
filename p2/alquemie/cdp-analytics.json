@@ -394,6 +394,162 @@
                     "issues": "https://github.com/alquemie/cdp-analytics/issues",
                     "source": "https://github.com/alquemie/cdp-analytics"
                 }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "11f473d25dc3194037b2a51e89ae189a70689808"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-11f473d25dc3194037b2a51e89ae189a70689808-zip-c628ff.tar",
+                    "reference": "11f473d25dc3194037b2a51e89ae189a70689808",
+                    "shasum": "cd1f12ceccf6ea2025a845f1f933baac78a84610"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "qriouslad/codestar-framework": "^2.2.8",
+                    "segmentio/analytics-php": "^3.5",
+                    "woocommerce/action-scheduler": "^3.5",
+                    "yahnis-elsts/plugin-update-checker": "^5.0"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2023-02-18T21:00:36+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-paths": {
+                        "lib/{$vendor}/{$name}/": [
+                            "type:wordpress-plugin",
+                            "type:wordpress-muplugin"
+                        ]
+                    }
+                },
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "4e9110224073604b37421af42d2d6b07c687e747"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-4e9110224073604b37421af42d2d6b07c687e747-zip-163664.tar",
+                    "reference": "4e9110224073604b37421af42d2d6b07c687e747",
+                    "shasum": "94b29717096e38a0ac5ed1734201a35052bf2624"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "qriouslad/codestar-framework": "^2.2.8",
+                    "segmentio/analytics-php": "^3.5",
+                    "woocommerce/action-scheduler": "^3.5",
+                    "yahnis-elsts/plugin-update-checker": "^5.0"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2023-02-19T15:33:04+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-paths": {
+                        "lib/{$vendor}/{$name}/": [
+                            "type:wordpress-plugin",
+                            "type:wordpress-muplugin"
+                        ]
+                    }
+                },
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "417929e9b56d1f2aeedf99fe29b057dbf0f69534"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-417929e9b56d1f2aeedf99fe29b057dbf0f69534-zip-9578d2.tar",
+                    "reference": "417929e9b56d1f2aeedf99fe29b057dbf0f69534",
+                    "shasum": "0ebbf72318e2da2f299714284170176a9c83f5fb"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8",
+                    "qriouslad/codestar-framework": "^2.2.8",
+                    "segmentio/analytics-php": "^3.5",
+                    "woocommerce/action-scheduler": "^3.5",
+                    "yahnis-elsts/plugin-update-checker": "^5.0"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master"
+                },
+                "time": "2023-02-24T16:14:28+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-paths": {
+                        "lib/{$vendor}/{$name}/": [
+                            "type:wordpress-plugin",
+                            "type:wordpress-muplugin"
+                        ]
+                    }
+                },
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
             }
         ]
     }
