@@ -431,7 +431,6 @@
                         ]
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -483,7 +482,6 @@
                         ]
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -535,7 +533,6 @@
                         ]
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
