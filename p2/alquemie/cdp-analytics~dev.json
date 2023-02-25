@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/cdp-analytics.git",
-                    "reference": "0d55128baf6e1342f693724a86a0292f084dc6ca"
+                    "reference": "72f2bcbca9df1c2a1ff58a15a4e431c195c0e362"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/0d55128baf6e1342f693724a86a0292f084dc6ca",
-                    "reference": "0d55128baf6e1342f693724a86a0292f084dc6ca",
+                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/72f2bcbca9df1c2a1ff58a15a4e431c195c0e362",
+                    "reference": "72f2bcbca9df1c2a1ff58a15a4e431c195c0e362",
                     "shasum": ""
                 },
                 "require": {
@@ -78,7 +78,7 @@
                     "woocommerce/action-scheduler": "^3.5",
                     "yahnis-elsts/plugin-update-checker": "^5.0"
                 },
-                "time": "2023-02-25T08:18:40+00:00",
+                "time": "2023-02-25T08:55:53+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "extra": {
