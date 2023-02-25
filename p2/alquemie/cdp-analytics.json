@@ -584,6 +584,57 @@
                         ]
                     }
                 },
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
+            {
+                "name": "alquemie/cdp-analytics",
+                "version": "2.2.4.2",
+                "version_normalized": "2.2.4.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "0d55128baf6e1342f693724a86a0292f084dc6ca"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-0d55128baf6e1342f693724a86a0292f084dc6ca-zip-aa770c.tar",
+                    "reference": "0d55128baf6e1342f693724a86a0292f084dc6ca",
+                    "shasum": "8dcd81d4203732767983ab24929410c2d3ff88d3"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "qriouslad/codestar-framework": "^2.2.8",
+                    "roave/security-advisories": "dev-master",
+                    "segmentio/analytics-php": "^3.5",
+                    "woocommerce/action-scheduler": "^3.5",
+                    "yahnis-elsts/plugin-update-checker": "^5.0"
+                },
+                "time": "2023-02-25T08:18:40+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-paths": {
+                        "lib/{$vendor}/{$name}/": [
+                            "type:wordpress-plugin",
+                            "type:wordpress-muplugin"
+                        ]
+                    }
+                },
                 "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
