@@ -1797,7 +1797,6 @@
                         ]
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
@@ -1871,12 +1870,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/cdp-analytics.git",
-                    "reference": "72f2bcbca9df1c2a1ff58a15a4e431c195c0e362"
+                    "reference": "dd4275f1aa8b32bd7b82826b575918fedc6c411a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/72f2bcbca9df1c2a1ff58a15a4e431c195c0e362",
-                    "reference": "72f2bcbca9df1c2a1ff58a15a4e431c195c0e362",
+                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/dd4275f1aa8b32bd7b82826b575918fedc6c411a",
+                    "reference": "dd4275f1aa8b32bd7b82826b575918fedc6c411a",
                     "shasum": ""
                 },
                 "require": {
@@ -1890,7 +1889,7 @@
                     "woocommerce/action-scheduler": "^3.5",
                     "yahnis-elsts/plugin-update-checker": "^5.0"
                 },
-                "time": "2023-02-25T08:55:53+00:00",
+                "time": "2023-02-25T09:10:56+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "extra": {
@@ -4164,7 +4163,39 @@
                 ],
                 "description": "GravityForms Stripe Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/4.3",
+                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/4.3.1",
+                    "issues": "https://github.com/Alquemie/gravityformsstripe/issues"
+                }
+            },
+            "4.3.1": {
+                "name": "alquemie/gravityformsstripe",
+                "version": "4.3.1",
+                "version_normalized": "4.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformsstripe.git",
+                    "reference": "d7ae371988aae702ac64fd7e00a8e4850290056d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravityformsstripe/alquemie-gravityformsstripe-d7ae371988aae702ac64fd7e00a8e4850290056d-zip-2d2235.tar",
+                    "reference": "d7ae371988aae702ac64fd7e00a8e4850290056d",
+                    "shasum": "2cb512d1b91593885f37af0b36d024df9a01a638"
+                },
+                "time": "2023-02-11T22:24:03+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Stripe Add On by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/4.3.1",
                     "issues": "https://github.com/Alquemie/gravityformsstripe/issues"
                 }
             },
@@ -4197,7 +4228,7 @@
                 ],
                 "description": "GravityForms Stripe Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/4.3",
+                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/4.3.1",
                     "issues": "https://github.com/Alquemie/gravityformsstripe/issues"
                 }
             }

@@ -686,7 +686,6 @@
                         ]
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "exclude-from-classmap": [
                         "/tests/"
