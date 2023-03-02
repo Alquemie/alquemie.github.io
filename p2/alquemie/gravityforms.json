@@ -805,6 +805,42 @@
                     "source": "https://github.com/Alquemie/gravityforms/tree/2.7.1.1",
                     "issues": "https://github.com/Alquemie/gravityforms/issues"
                 }
+            },
+            {
+                "name": "alquemie/gravityforms",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityforms.git",
+                    "reference": "7f00170d10f0e6a0c6914272254dcc825dd0b46e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravityforms/alquemie-gravityforms-7f00170d10f0e6a0c6914272254dcc825dd0b46e-zip-c6d917.tar",
+                    "reference": "7f00170d10f0e6a0c6914272254dcc825dd0b46e",
+                    "shasum": "a4f00b00832a427d9d3bc9308161d7733bb63a58"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2023-03-02T03:14:51+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Plugin by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityforms/tree/2.7.2",
+                    "issues": "https://github.com/Alquemie/gravityforms/issues"
+                }
             }
         ]
     }
