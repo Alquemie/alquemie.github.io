@@ -50,7 +50,6 @@
                 },
                 "time": "2023-03-21T00:04:04+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
