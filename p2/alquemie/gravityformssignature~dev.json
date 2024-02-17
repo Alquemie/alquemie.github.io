@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformssignature.git",
-                    "reference": "203f1fd7a88d6bf4c35390c505de61c49713befe"
+                    "reference": "6125ed585816433a18df1918afe6896d68def044"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/gravityformssignature/zipball/203f1fd7a88d6bf4c35390c505de61c49713befe",
-                    "reference": "203f1fd7a88d6bf4c35390c505de61c49713befe",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformssignature/zipball/6125ed585816433a18df1918afe6896d68def044",
+                    "reference": "6125ed585816433a18df1918afe6896d68def044",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2023-02-11T22:11:59+00:00",
+                "time": "2024-02-17T23:04:43+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "GravityForms Plugin Signature Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformssignature/tree/4.4",
+                    "source": "https://github.com/Alquemie/gravityformssignature/tree/v4.6.0",
                     "issues": "https://github.com/Alquemie/gravityformssignature/issues"
                 }
             }

@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "alquemie/gravitysmtp": [
+            {
+                "name": "alquemie/gravitysmtp",
+                "version": "v1.0-rc3",
+                "version_normalized": "1.0.0.0-RC3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravitysmtp.git",
+                    "reference": "9b4feddf63f201344d82fee291bc0349adcd58a3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/gravitysmtp/alquemie-gravitysmtp-9b4feddf63f201344d82fee291bc0349adcd58a3-zip-d1a7cf.tar",
+                    "reference": "9b4feddf63f201344d82fee291bc0349adcd58a3",
+                    "shasum": "c49a6206ab55f733a7eb761fcdc78dfcd4ed5944"
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2024-02-17T23:23:13+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "Gravity SMTP by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravitysmtp/tree/v1.0-rc3",
+                    "issues": "https://github.com/Alquemie/gravitysmtp/issues"
+                }
+            }
+        ]
+    }
+}

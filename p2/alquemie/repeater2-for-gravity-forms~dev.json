@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
-                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171"
+                    "reference": "28dc2ce4136048cb26f24d332c120cc7f97ae05b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/repeater2-for-gravity-forms/zipball/82d1cb33eb88db7437bc051455f44650ee857171",
-                    "reference": "82d1cb33eb88db7437bc051455f44650ee857171",
+                    "url": "https://api.github.com/repos/Alquemie/repeater2-for-gravity-forms/zipball/28dc2ce4136048cb26f24d332c120cc7f97ae05b",
+                    "reference": "28dc2ce4136048cb26f24d332c120cc7f97ae05b",
                     "shasum": ""
                 },
-                "time": "2021-08-24T16:45:57+00:00",
+                "time": "2024-02-17T23:32:52+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -34,7 +34,7 @@
                 ],
                 "description": "Plugin that enables a repeater field group for Gravity Forms",
                 "support": {
-                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/2.0.3"
+                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/master"
                 },
                 "funding": [
                     {

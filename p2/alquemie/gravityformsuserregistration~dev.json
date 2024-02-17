@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformsuserregistration.git",
-                    "reference": "72e05a7e59ba3ee2745b1e2cda87b243748c78b6"
+                    "reference": "43c382951ad9a5862f1e599832fbca0bf0a85656"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/gravityformsuserregistration/zipball/72e05a7e59ba3ee2745b1e2cda87b243748c78b6",
-                    "reference": "72e05a7e59ba3ee2745b1e2cda87b243748c78b6",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformsuserregistration/zipball/43c382951ad9a5862f1e599832fbca0bf0a85656",
+                    "reference": "43c382951ad9a5862f1e599832fbca0bf0a85656",
                     "shasum": ""
                 },
-                "time": "2023-03-21T00:04:04+00:00",
+                "time": "2024-02-17T23:03:14+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -30,7 +30,7 @@
                 ],
                 "description": "GravityForms User Registration Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformsuserregistration/tree/5.1",
+                    "source": "https://github.com/Alquemie/gravityformsuserregistration/tree/v5.3.0",
                     "issues": "https://github.com/Alquemie/gravityformsuserregistration/issues"
                 }
             }

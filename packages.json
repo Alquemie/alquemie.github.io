@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ca75194975a6f18b0244659b96211f0e4dd3c073.json": {
-            "sha1": "ca75194975a6f18b0244659b96211f0e4dd3c073"
+        "include/all$42fa25c3745a65aaaead4dd83f7448ec4f29291d.json": {
+            "sha1": "42fa25c3745a65aaaead4dd83f7448ec4f29291d"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -15,10 +15,13 @@
         "alquemie/gf-formname",
         "alquemie/gf-velocify",
         "alquemie/gravityforms",
+        "alquemie/gravityformsauthorizenet",
+        "alquemie/gravityformsgoogleanalytics",
         "alquemie/gravityformsmailchimp",
         "alquemie/gravityformssignature",
         "alquemie/gravityformsstripe",
         "alquemie/gravityformsuserregistration",
+        "alquemie/gravitysmtp",
         "alquemie/repeater2-for-gravity-forms",
         "cedaro/gravity-forms-iframe",
         "roots/bedrock-autoloader",

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/roots/soil.git",
-                    "reference": "e8e15c29f01414f86610445be8f7274b8b9a73b8"
+                    "reference": "b9d615591ba0182d279e31f539cccae52910b108"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/roots/soil/zipball/e8e15c29f01414f86610445be8f7274b8b9a73b8",
-                    "reference": "e8e15c29f01414f86610445be8f7274b8b9a73b8",
+                    "url": "https://api.github.com/repos/roots/soil/zipball/b9d615591ba0182d279e31f539cccae52910b108",
+                    "reference": "b9d615591ba0182d279e31f539cccae52910b108",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "squizlabs/php_codesniffer": "^3.5",
                     "wp-coding-standards/wpcs": "^2.3"
                 },
-                "time": "2022-08-01T17:32:31+00:00",
+                "time": "2024-01-16T15:14:12+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -84,7 +84,7 @@
                 "support": {
                     "issues": "https://github.com/roots/soil/issues",
                     "forum": "https://discourse.roots.io/",
-                    "source": "https://github.com/roots/soil/tree/4.1.1"
+                    "source": "https://github.com/roots/soil/tree/main"
                 },
                 "funding": [
                     {
@@ -95,7 +95,8 @@
                         "type": "custom",
                         "url": "https://roots.io/plugins/soil/"
                     }
-                ]
+                ],
+                "abandoned": "roots/acorn-prettify"
             }
         ]
     }

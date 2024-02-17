@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "alquemie/gravityformsgoogleanalytics": [
+            {
+                "name": "alquemie/gravityformsgoogleanalytics",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformsgoogleanalytics.git",
+                    "reference": "b59bd35feac576bcfb5cc56df4d6264f2309dd67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformsgoogleanalytics/zipball/b59bd35feac576bcfb5cc56df4d6264f2309dd67",
+                    "reference": "b59bd35feac576bcfb5cc56df4d6264f2309dd67",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2024-02-17T23:12:59+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Plugin Google Analytics Add On by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformsgoogleanalytics/tree/v2.2.0",
+                    "issues": "https://github.com/Alquemie/gravityformsgoogleanalytics/issues"
+                }
+            }
+        ]
+    }
+}
