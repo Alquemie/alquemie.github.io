@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Alquemie/gravityformsstripe.git",
-                    "reference": "7009249ebfae90bf468f49a0d49f33b41e8cff57"
+                    "reference": "8eebbd2092bd71d2035999a7962a2e10ecf4bdd8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/gravityformsstripe/zipball/7009249ebfae90bf468f49a0d49f33b41e8cff57",
-                    "reference": "7009249ebfae90bf468f49a0d49f33b41e8cff57",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformsstripe/zipball/8eebbd2092bd71d2035999a7962a2e10ecf4bdd8",
+                    "reference": "8eebbd2092bd71d2035999a7962a2e10ecf4bdd8",
                     "shasum": ""
                 },
-                "time": "2024-02-17T22:58:13+00:00",
+                "time": "2024-03-05T04:05:22+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -30,7 +30,7 @@
                 ],
                 "description": "GravityForms Stripe Add On by Rocketgenius, Inc.",
                 "support": {
-                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/v5.4.6",
+                    "source": "https://github.com/Alquemie/gravityformsstripe/tree/v5.5.0",
                     "issues": "https://github.com/Alquemie/gravityformsstripe/issues"
                 }
             }
