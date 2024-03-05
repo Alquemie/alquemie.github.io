@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "alquemie/gravityformscoupons": [
+            {
+                "name": "alquemie/gravityformscoupons",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformscoupons.git",
+                    "reference": "d2dfef9a771af24f81fc379d496b0404b4201fd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformscoupons/zipball/d2dfef9a771af24f81fc379d496b0404b4201fd6",
+                    "reference": "d2dfef9a771af24f81fc379d496b0404b4201fd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2024-03-05T02:45:15+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Coupons Addon by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformscoupons/tree/v3.3.0",
+                    "issues": "https://github.com/Alquemie/gravityformscoupons/issues"
+                }
+            }
+        ]
+    }
+}

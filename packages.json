@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0f3184f0b8bb0c675e832e7745124554835a419b.json": {
-            "sha1": "0f3184f0b8bb0c675e832e7745124554835a419b"
+        "include/all$a1b2723e711735eabe16dcf4ff1c98b0dd87eb6f.json": {
+            "sha1": "a1b2723e711735eabe16dcf4ff1c98b0dd87eb6f"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -16,6 +16,8 @@
         "alquemie/gf-velocify",
         "alquemie/gravityforms",
         "alquemie/gravityformsauthorizenet",
+        "alquemie/gravityformscoupons",
+        "alquemie/gravityformsemma",
         "alquemie/gravityformsgoogleanalytics",
         "alquemie/gravityformsmailchimp",
         "alquemie/gravityformssignature",
