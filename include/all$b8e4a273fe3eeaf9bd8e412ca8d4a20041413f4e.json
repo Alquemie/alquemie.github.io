@@ -2003,6 +2003,57 @@
                     "source": "https://github.com/alquemie/cdp-analytics"
                 }
             },
+            "v2.3.2": {
+                "name": "alquemie/cdp-analytics",
+                "version": "v2.3.2",
+                "version_normalized": "2.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/cdp-analytics.git",
+                    "reference": "76d11693d38231b35462f1d799117a379087e898"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/cdp-analytics/alquemie-cdp-analytics-76d11693d38231b35462f1d799117a379087e898-zip-76c3a2.tar",
+                    "reference": "76d11693d38231b35462f1d799117a379087e898",
+                    "shasum": "3b7386c0d7ea491413d9b323f1f3906bf609d1bc"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-master",
+                    "segmentio/analytics-php": "^3.5",
+                    "woocommerce/action-scheduler": "^3.5",
+                    "yahnis-elsts/plugin-update-checker": "^5.0"
+                },
+                "time": "2024-03-13T14:50:13+00:00",
+                "type": "wordpress-plugin",
+                "extra": {
+                    "installer-paths": {
+                        "lib/{$vendor}/{$name}/": [
+                            "type:wordpress-plugin",
+                            "type:wordpress-muplugin"
+                        ]
+                    }
+                },
+                "installation-source": "dist",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "description": "WordPress implementation of Segment analytics.js with support for external link tracking.",
+                "homepage": "https://alquemie.net/",
+                "support": {
+                    "issues": "https://github.com/alquemie/cdp-analytics/issues",
+                    "source": "https://github.com/alquemie/cdp-analytics"
+                }
+            },
             "v2.x-dev": {
                 "name": "alquemie/cdp-analytics",
                 "version": "v2.x-dev",
@@ -2061,12 +2112,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/cdp-analytics.git",
-                    "reference": "ebf46fe9c0d295a94b45ac8afee534e09edf0cbf"
+                    "reference": "76d11693d38231b35462f1d799117a379087e898"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/ebf46fe9c0d295a94b45ac8afee534e09edf0cbf",
-                    "reference": "ebf46fe9c0d295a94b45ac8afee534e09edf0cbf",
+                    "url": "https://api.github.com/repos/Alquemie/cdp-analytics/zipball/76d11693d38231b35462f1d799117a379087e898",
+                    "reference": "76d11693d38231b35462f1d799117a379087e898",
                     "shasum": ""
                 },
                 "require": {
@@ -2079,7 +2130,7 @@
                     "woocommerce/action-scheduler": "^3.5",
                     "yahnis-elsts/plugin-update-checker": "^5.0"
                 },
-                "time": "2024-03-13T13:18:39+00:00",
+                "time": "2024-03-13T14:50:13+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "extra": {
@@ -4267,7 +4318,6 @@
                 },
                 "time": "2024-03-13T14:40:34+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
