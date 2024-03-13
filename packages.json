@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$dd1feea27b004456307c13ed157ca7edb6431e88.json": {
-            "sha1": "dd1feea27b004456307c13ed157ca7edb6431e88"
+        "include/all$1bfb42d09fa70bd564e62991d08790c755c977cf.json": {
+            "sha1": "1bfb42d09fa70bd564e62991d08790c755c977cf"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -22,6 +22,7 @@
         "alquemie/gravityformsmailchimp",
         "alquemie/gravityformssignature",
         "alquemie/gravityformsstripe",
+        "alquemie/gravityformsturnstile",
         "alquemie/gravityformsuserregistration",
         "alquemie/gravitysmtp",
         "alquemie/repeater2-for-gravity-forms",

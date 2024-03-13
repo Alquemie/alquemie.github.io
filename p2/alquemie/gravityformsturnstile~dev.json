@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "alquemie/gravityformsturnstile": [
+            {
+                "name": "alquemie/gravityformsturnstile",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Alquemie/gravityformsturnstile.git",
+                    "reference": "7eef661f46b09fe8c961b3a697b9275ed8e0b2fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Alquemie/gravityformsturnstile/zipball/7eef661f46b09fe8c961b3a697b9275ed8e0b2fd",
+                    "reference": "7eef661f46b09fe8c961b3a697b9275ed8e0b2fd",
+                    "shasum": ""
+                },
+                "time": "2024-03-13T14:26:00+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Rocketgenius, Inc.",
+                        "homepage": "http://www.gravityforms.com"
+                    }
+                ],
+                "description": "GravityForms Cloudflare Turnstile Add On by Rocketgenius, Inc.",
+                "support": {
+                    "source": "https://github.com/Alquemie/gravityformsturnstile/tree/v1.1.0.1",
+                    "issues": "https://github.com/Alquemie/gravityformsturnstile/issues"
+                }
+            }
+        ]
+    }
+}
