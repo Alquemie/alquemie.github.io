@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "alquemie/codestar-framework": [
+            {
+                "name": "alquemie/codestar-framework",
+                "version": "v2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/codestar-framework.git",
+                    "reference": "8e7717a23961be28a8116c7f82e2345b5eb4bba2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/codestar-framework/alquemie-codestar-framework-8e7717a23961be28a8116c7f82e2345b5eb4bba2-zip-dfbc5c.tar",
+                    "reference": "8e7717a23961be28a8116c7f82e2345b5eb4bba2",
+                    "shasum": "d901c451499158e9d0633ed362d1f1b1f6c7cba4"
+                },
+                "time": "2024-03-13T16:17:24+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Codestar",
+                        "homepage": "http://codestarframework.com/"
+                    }
+                ],
+                "description": "A Simple and Lightweight WordPress Option Framework for Themes and Plugins",
+                "support": {
+                    "source": "https://github.com/Alquemie/codestar-framework/tree/v2.3.1"
+                }
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b8e4a273fe3eeaf9bd8e412ca8d4a20041413f4e.json": {
-            "sha1": "b8e4a273fe3eeaf9bd8e412ca8d4a20041413f4e"
+        "include/all$41a0941d2636f8047bded0ad63d2f3997b1d4940.json": {
+            "sha1": "41a0941d2636f8047bded0ad63d2f3997b1d4940"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -11,6 +11,7 @@
         "alquemie/alquemie-config",
         "alquemie/cdp-analytics",
         "alquemie/cdp-analytics-gf",
+        "alquemie/codestar-framework",
         "alquemie/gf-campaign-fields",
         "alquemie/gf-formname",
         "alquemie/gf-velocify",
@@ -27,7 +28,6 @@
         "alquemie/gravitysmtp",
         "alquemie/repeater2-for-gravity-forms",
         "cedaro/gravity-forms-iframe",
-        "roots/bedrock-autoloader",
-        "roots/soil"
+        "roots/bedrock-autoloader"
     ]
 }
