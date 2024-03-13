@@ -5110,7 +5110,6 @@
                 },
                 "time": "2024-03-13T14:26:00+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPLv3"
                 ],
@@ -5410,6 +5409,52 @@
                     }
                 ]
             },
+            "v2.1.1": {
+                "name": "alquemie/repeater2-for-gravity-forms",
+                "version": "v2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
+                    "reference": "3dfec350cda09c36a23e99356df2d61c93fe106b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://alquemie.github.io/dist/alquemie/repeater2-for-gravity-forms/alquemie-repeater2-for-gravity-forms-3dfec350cda09c36a23e99356df2d61c93fe106b-zip-0abe0d.tar",
+                    "reference": "3dfec350cda09c36a23e99356df2d61c93fe106b",
+                    "shasum": "61999438882a42a61a084dbd1d05afa7a0dbaefd"
+                },
+                "time": "2024-03-13T14:35:08+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Chris Carrel",
+                        "email": "support@alquemie.net"
+                    },
+                    {
+                        "name": "Ciprian Popescu",
+                        "homepage": "https://getbutterfly.com/"
+                    }
+                ],
+                "description": "Plugin that enables a repeater field group for Gravity Forms",
+                "support": {
+                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/v2.1.1"
+                },
+                "funding": [
+                    {
+                        "type": "patreon",
+                        "url": "https://www.patreon.com/getbutterfly"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.buymeacoffee.com/wolffe"
+                    }
+                ]
+            },
             "dev-master": {
                 "name": "alquemie/repeater2-for-gravity-forms",
                 "version": "dev-master",
@@ -5417,15 +5462,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Alquemie/repeater2-for-gravity-forms.git",
-                    "reference": "28dc2ce4136048cb26f24d332c120cc7f97ae05b"
+                    "reference": "3dfec350cda09c36a23e99356df2d61c93fe106b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Alquemie/repeater2-for-gravity-forms/zipball/28dc2ce4136048cb26f24d332c120cc7f97ae05b",
-                    "reference": "28dc2ce4136048cb26f24d332c120cc7f97ae05b",
+                    "url": "https://api.github.com/repos/Alquemie/repeater2-for-gravity-forms/zipball/3dfec350cda09c36a23e99356df2d61c93fe106b",
+                    "reference": "3dfec350cda09c36a23e99356df2d61c93fe106b",
                     "shasum": ""
                 },
-                "time": "2024-02-17T23:32:52+00:00",
+                "time": "2024-03-13T14:35:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -5443,7 +5488,7 @@
                 ],
                 "description": "Plugin that enables a repeater field group for Gravity Forms",
                 "support": {
-                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/master"
+                    "source": "https://github.com/Alquemie/repeater2-for-gravity-forms/tree/v2.1.1"
                 },
                 "funding": [
                     {
