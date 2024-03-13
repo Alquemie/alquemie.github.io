@@ -63,7 +63,6 @@
                 },
                 "time": "2024-03-13T14:35:08+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "license": [
                     "GPL-3.0+"
                 ],
